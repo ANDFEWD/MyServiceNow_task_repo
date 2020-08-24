@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-528293-incident-list": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My Now card-list component",
+				"icon": "chart-forecast-fill",
+				"description": "My card-list Now component"
+			  }
+	    }
+	},
+	"scopeName": "x_528293_test_in_0"
+}

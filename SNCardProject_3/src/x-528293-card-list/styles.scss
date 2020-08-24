@@ -1,0 +1,50 @@
+@import "@servicenow/sass-kit/host";
+
+.card_container {
+  display: grid;
+  grid-template-columns: 550px 550px;
+  justify-content: center;
+  grid-gap: 10px;
+
+  // display: flex;
+  // align-items: center;
+  // justify-content: center;
+  // width: 100%;
+  // &-item{
+  //     display: flex;
+  //     justify-content: center;
+  //     padding: 5px;
+  //     width: 100%;
+  //     height: 100%;
+  // }
+  // &-item:nth-child(){
+  //     width:500px;
+  // }
+}
+// .card_container-block-item::shadow{
+//     width:500px;
+// }
+// // :host(.now-template-card-now-card) {
+// //     width:500px;
+// //   }
+// :host(.now-template-card-assist) {
+//     width:500px;
+//   }
+//   now-card.now-template-card-now-card::part() {
+//     width:500px;
+//   }
+
+// .now-template-card-now-card{
+//     width:500px;
+// }
+
+// #shadow-root{
+// now-card {
+//     height:inherit;
+//     width:500px;
+//    }
+// }
+
+// .card_container-block-item > now-card{
+//     width: 100% !important;
+// }

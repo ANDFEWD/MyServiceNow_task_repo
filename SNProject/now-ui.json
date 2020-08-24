@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-528293-hello-world": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My Now test component",
+				"icon": "chart-forecast-fill",
+				"description": "My Hello World! Now component"
+			  }
+	    }
+	},
+	"scopeName": "x_528293_test_he_0"
+}

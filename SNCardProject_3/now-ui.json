@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-528293-card-list": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My Now card-assist component",
+				"icon": "chart-forecast-fill",
+				"description": "My card-assist Now component"
+			  }
+	    }
+	},
+	"scopeName": "x_528293_test_ca_0"
+}
